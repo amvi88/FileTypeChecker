@@ -1,4 +1,4 @@
-﻿namespace FileTypeGuesser
+﻿namespace FileTypeChecker
 {
     using System.IO;
 

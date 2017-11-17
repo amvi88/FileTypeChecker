@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FileTypeGuesser.Tests")]
+[assembly: AssemblyTitle("FileTypeChecker")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP")]
-[assembly: AssemblyProduct("FileTypeGuesser.Tests")]
+[assembly: AssemblyProduct("FileTypeChecker")]
 [assembly: AssemblyCopyright("Copyright © HP 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("da4da584-b4a8-4766-a0fc-81ba5b7ea1b6")]
+[assembly: Guid("8f5ab3ff-cefb-4575-bbda-58ca0dc9b369")]
 
 // Version information for an assembly consists of the following four values:
 //
