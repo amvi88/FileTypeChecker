@@ -35,10 +35,10 @@ I have seen too many projects allow file uploads any the only validation that oc
 
 For a list of file magic numbers, I have found these sites to be useful.  
 
-https://www.garykessler.net/library/file_sigs.html
-http://filext.com/
-https://en.wikipedia.org/wiki/List_of_file_signatures
-https://asecuritysite.com/forensics/magic
+* https://www.garykessler.net/library/file_sigs.html
+* http://filext.com/
+* https://en.wikipedia.org/wiki/List_of_file_signatures
+* https://asecuritysite.com/forensics/magic
 
 
 ## Credits
