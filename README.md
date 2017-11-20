@@ -35,14 +35,14 @@ I have seen too many projects allow file uploads any the only validation that oc
 
 For a list of file magic numbers, I have found these sites to be useful.  
 
-* https://www.garykessler.net/library/file_sigs.html
-* http://filext.com/
-* https://en.wikipedia.org/wiki/List_of_file_signatures
-* https://asecuritysite.com/forensics/magic
+* [https://www.garykessler.net/library/file_sigs.html](https://www.garykessler.net/library/file_sigs.html)
+* [http://filext.com/](http://filext.com/)
+* [https://en.wikipedia.org/wiki/List_of_file_signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
+* [https://asecuritysite.com/forensics/magic](https://asecuritysite.com/forensics/magic)
 
 
 ## Credits
 
 Based on [mjolka](https://github.com/mjolka)'s answer to the Stack Overflow question [Guessing a file type based on its content](http://codereview.stackexchange.com/questions/85054/guessing-a-file-type-based-on-its-content).
 
-This repo is forked from https://github.com/mjolka/filetypes and the original code can be found in the "original" branch (preserving for posterity).  I have changed the namespaces/project name to better describe the purpose. 
+This repo is forked from [https://github.com/mjolka/filetypes](https://github.com/mjolka/filetypes) and the original code can be found in the "original" branch (preserving for posterity).  I have changed the namespaces/project name to better describe the purpose. 
