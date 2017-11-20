@@ -4,6 +4,14 @@ File Type Checker is a .Net file identification library allowing developers to t
 
 The purpose of this code is to make it easier for people to add better file security functionality to their projects via a NuGet package.
 
+## Installation
+
+Nuget package: [FileTypeChecker](https://www.nuget.org/packages/FileTypeChecker/)
+
+Via Package Manager:
+
+`Install-Package FileTypeChecker`
+
 ## Usage
 
 Using an IoC container, register the instance in the container
