@@ -1,6 +1,6 @@
 # File Type Checker
 
-File Type Checker is a .Net file identification library allowing developers to the file's magic numbers/identifying bytes against a whitelist.  
+File Type Checker is a .Net file identification library allowing developers to verify the file's magic numbers/identifying bytes against a whitelist.  
 
 The purpose of this code is to make it easier for people to add better file security functionality to their projects via a NuGet package.
 
