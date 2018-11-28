@@ -1,4 +1,4 @@
-﻿namespace FileTypeChecker
+﻿namespace FileTypeChecker.Matchers
 {
     using System;
     using System.IO;
@@ -20,7 +20,7 @@
                 stream.Seek(0, SeekOrigin.Begin);
             }
 
-            return MatchesPrivate(stream);
+            return this.MatchesPrivate(stream);
         }
 
         protected abstract bool MatchesPrivate(Stream stream);

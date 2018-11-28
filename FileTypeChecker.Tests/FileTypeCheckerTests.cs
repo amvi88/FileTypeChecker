@@ -1,4 +1,6 @@
-﻿namespace FileTypeChecker.Tests
+﻿using FileTypeChecker.Matchers;
+
+namespace FileTypeChecker.Tests
 {
     using System.Drawing.Imaging;
     using System.IO;
@@ -20,7 +22,7 @@
 
             private FileTypeChecker checker;
 
-            [TestFixtureSetUp]
+            [OneTimeSetUp]
             public void SetUp()
             {
                 bitmap = new MemoryStream();
@@ -59,7 +61,7 @@
 
             private FileTypeChecker checker;
 
-            [TestFixtureSetUp]
+            [OneTimeSetUp]
             public void SetUp()
             {
                 bitmap = new MemoryStream();
@@ -124,7 +126,7 @@
 
             private FileTypeChecker checker;
 
-            [TestFixtureSetUp]
+            [OneTimeSetUp]
             public void SetUp()
             {
                 bitmap = new MemoryStream();

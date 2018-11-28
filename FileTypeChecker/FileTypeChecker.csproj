@@ -18,7 +18,7 @@
 		NuGet package of code originally written by https://github.com/mjolka and extended to allow for dependency injecting the known file types.
 	</Description>
     <Copyright>2018 0xbrock</Copyright>
-    <VersionPrefix>1.0.1</VersionPrefix>
+    <VersionPrefix>1.0.2</VersionPrefix>
 	<RepositoryUrl>https://github.com/0xbrock/FileTypeChecker</RepositoryUrl>
 	<PackageTags>File Type, Validator, Checker, Magic Numbers, Identifying Bytes</PackageTags>
   </PropertyGroup>

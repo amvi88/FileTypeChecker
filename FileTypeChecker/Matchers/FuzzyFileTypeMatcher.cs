@@ -1,4 +1,4 @@
-﻿namespace FileTypeChecker
+﻿namespace FileTypeChecker.Matchers
 {
     using System.Collections.Generic;
     using System.IO;
